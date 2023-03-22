@@ -77,3 +77,5 @@ typings/
 
 # Build output
 lib/
+
+.hermit
